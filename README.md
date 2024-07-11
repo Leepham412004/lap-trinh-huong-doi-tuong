@@ -65,7 +65,7 @@
 
 ### Thống kê
 
-- Nhấn nút "Thống kê" để hiển thị thông tin thống kê về số lượng thanh thiếu niên nam và nữ.
+- Nhấn nút "Thống kê" để hiển thị thông tin thống kê về tổng số thanh thiếu niên và số lượng thanh thiếu niên nam/nữ.
 
 ## Liên hệ
 
