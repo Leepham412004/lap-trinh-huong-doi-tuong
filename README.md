@@ -15,7 +15,7 @@
 ## Yêu cầu hệ thống
 
 - JDK 8 trở lên
-- Một môi trường phát triển Java như IntelliJ IDEA hoặc Eclipse
+- Một môi trường phát triển Java như Apache Netbeans
 
 ## Hướng dẫn cài đặt và chạy chương trình
 
@@ -23,7 +23,7 @@
     ```bash
     git clone <repository_url>
     ```
-2. **Nhập project vào môi trường phát triển của bạn (IntelliJ IDEA hoặc Eclipse)**.
+2. **Nhập project vào môi trường phát triển của bạn (Apache Netbeans)**.
 
 3. **Cấu trúc thư mục**:
     - `qlYouth_swing/qlYouth/`: Chứa các file chính của ứng dụng
